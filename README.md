@@ -13,10 +13,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<h1 align="center">Hi 👋, I'm Yash Mantri</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
 
-### Hello World 👋
+
+
+
+
 I am a Software engineer from INDIA
 - 🔭 Pursuing my bachelors degree in Computer Science and Engineering
+- 🔭 I’m currently working on Visual Question Answering on Image
+- 🌱 I’m currently learning Machine Learning
+- 📫 How to reach me: yashamantri1@gmail.com
+
 <br>
 
 ## Connect with me
@@ -35,3 +44,5 @@ I am a Software engineer from INDIA
 
 <br>
 <br>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yashm1&show_icons=true&locale=en&layout=compact" alt="yashm1" /></p>
+
