@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 
 
-I am a Software engineer from INDIA
+
 - 🔭 Pursuing my bachelors degree in Computer Science and Engineering
 - 🔭 I’m currently working on Visual Question Answering on Image
 - 🌱 I’m currently learning Machine Learning
@@ -35,9 +35,6 @@ I am a Software engineer from INDIA
 
 <br>
 <br>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yashm1&show_icons=true&locale=en&layout=compact" alt="yashm1"/>
-</p>
 
 ## Expertise
 
@@ -48,6 +45,11 @@ I am a Software engineer from INDIA
 <br>
 
 <br>
+<br>
+<br>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yashm1&show_icons=true&locale=en&layout=compact" alt="yashm1"/>
+</p>
 
 
 
