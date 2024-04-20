@@ -21,9 +21,9 @@ Here are some ideas to get you started:
 
 
 
-- 🔭 Pursuing my bachelors degree in Computer Science and Engineering
-- 🔭 I’m currently working on Visual Question Answering on Image
-- 🌱 I’m currently learning Machine Learning
+- 🔭 Working as SDE-1 @Kotak, ex-Amazon
+-  Working on building a communication platform for Kotak
+- Currently learning machine learning. Building recommendation engine.
 - 📫 How to reach me: yashamantri1@gmail.com
 
 <br>
