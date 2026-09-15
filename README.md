@@ -1,56 +1,142 @@
-
-<!--
-**yashm1/yashm1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+````md
 <h1 align="center">Hi 👋, I'm Yash Mantri</h1>
-<h3 align="center">A passionate developer from India</h3>
 
+<h3 align="center">
+Backend Engineer • System Design • Distributed Systems • Building in Public
+</h3>
 
-
-
-
-
-- 🔭 Working as SDE-1 @Kotak, ex-Amazon
--  Working on building a communication platform for Kotak
-- Currently learning machine learning. Building recommendation engine.
-- 📫 How to reach me: yashamantri1@gmail.com
-
-<br>
-
-
-## Connect with me
-[<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/yash-mantri-1006/)
-[<img align="left" alt="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"/>](https://twitter.com/ymantrii)
-
-<br>
-<br>
-
-## Languages and Tools:
-
-<img align="left" alt="react" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-<img align="left" alt="nodejs" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
-<img align="left" alt="medium" src="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white" />
-<img align="left" alt="Python"  src="https://img.icons8.com/color/48/000000/python--v1.png"/>
-<img align="left" alt="OpenCV" src="https://img.icons8.com/color/48/000000/opencv.png" />
-<br>
-
-<br>
-
-<br>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yashm1&show_icons=true&locale=en&layout=compact" alt="yashm1"/>
+  <a href="https://www.linkedin.com/in/yash-mantri-1006/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://twitter.com/ymantrii">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+  </a>
+  <a href="mailto:yashamantri1@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
+---
 
+## 👨‍💻 About Me
 
+- 💼 **SDE-2 @ Kotak Mahindra Bank**
+- 📦 Previously worked at **Amazon**
+- ⚙️ Building scalable **backend & platform systems**
+- 🔐 Built an OTP platform handling **~5M OTPs/day** for **2M+ daily users**
+- 🚀 Worked on systems scaling up to **500 TPS**
+- ⚡ Interested in **Distributed Systems, System Design & Backend Engineering**
+- ☁️ Building primarily with **Java, Spring Boot, AWS, Kafka, Redis & DynamoDB**
+- 🧠 Currently diving deeper into **System Design, distributed systems & AI**
+- 🛠️ I like building products and shipping them in public
+- 🎥 I simplify backend & system design concepts through **@ymantriitalks**
+
+---
+
+## 🧰 Tech Stack
+
+### Backend
+
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+</p>
+
+### Databases & Caching
+
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+</p>
+
+### Distributed Systems & Cloud
+
+<p>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-web-services&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+</p>
+
+### Frontend
+
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+</p>
+
+---
+
+## 🚀 What I Like Building
+
+```text
+Backend Systems     ████████████████████
+System Design       ███████████████████░
+Distributed Systems ██████████████████░░
+Cloud Architecture  █████████████████░░░
+AI / ML             ███████████░░░░░░░░░
+````
+
+I'm especially interested in problems involving:
+
+* High-scale backend systems
+* Event-driven architecture
+* Distributed systems
+* Caching & databases
+* Authentication & communication platforms
+* Recommendation systems
+* Developer tools
+* AI-powered products
+
+---
+
+## 🛠️ Building in Public
+
+Apart from work, I enjoy turning ideas into real products.
+
+Some things I've been experimenting with:
+
+* 🪔 **Bappa Map** — discovering Ganpati pandals and celebrations
+* 🇮🇳 **India Through Time** — an interactive way to explore India's history
+* 🌍 **Disaster Intelligence Platform** — real-time disaster information & rescue intelligence
+* 🤖 AI-powered developer and creator tools
+
+> I believe the best way to learn engineering is to build things that people can actually use.
+
+---
+
+## 🎥 ymantriitalks
+
+I create content around:
+
+`System Design` • `Backend Engineering` • `Databases` • `Distributed Systems` • `Engineering Interviews`
+
+I try to explain complicated engineering concepts without making them complicated.
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yashm1&show_icons=true&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashm1&layout=compact&hide_border=true" />
+</p>
+
+---
+
+## 🤝 Let's Connect
+
+I'm always happy to talk about backend engineering, system design, interesting product ideas, or building things from scratch.
+
+📩 **[ymantrii.works@gmail.com](mailto:ymantrii.works@gmail.com)**
+
+<p align="center">
+  <b>Build. Break. Learn. Repeat.</b>
+</p>
+```
